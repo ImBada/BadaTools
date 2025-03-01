@@ -20,4 +20,10 @@ ARM 아키텍처를 사용하는 macOS에서 Virtual DJ와 Syphon을 연동할 �
 
 ---
 
+## ✨ Empty your PiP
+
+보통 브라우저 PiP는 마우스가 올라갈 때 재생정지 등의 버튼 레이아웃이 보입니다. 그런 레이아웃을 완전히 없애는 모드입니다. 즉, 마우스가 지나가도 영상만 보입니다.
+
+[🔗 Empty your PiP 적용법](https://imbada.notion.site/Empty-your-Pip-Zen-PiP-1a9a3aea5100809c866fd32a98e689ba)
+
 피드백은 각 페이지의 이슈 란에 부탁드립니다.
